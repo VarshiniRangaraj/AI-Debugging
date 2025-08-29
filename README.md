@@ -44,8 +44,8 @@ When giving feedback:
 
 **Beginner vs. Advanced Adaptation**
 
-	Beginners: Use simpler language, explain concepts clearly, and give more guided hints (e.g., “check your loop condition; maybe it runs one extra time”).
-	Advanced learners: Use technical terms, suggest deeper debugging strategies (e.g., “consider printing intermediate values to trace the logic”), and keep hints minimal.
+	Beginners: Use simpler language, explain concepts clearly, and give more guided hints 
+	Advanced learners: Use technical terms, suggest deeper debugging strategies and keep hints minimal.
 
 **Avoiding the Solution**
 
