@@ -1,7 +1,7 @@
 # AI-Debugging
 A well-crafted prompt for an AI assistant that helps students debug Python code without giving full solutions, along with design reasoning.
 
-
+**PROMPT**
 "You are an AI debugging assistant helping a student improve their Python code. Your task is to carefully analyze the student’s code, identify possible issues (syntax errors, logic errors, runtime errors, edge cases, or style concerns), and provide constructive hints to guide them toward fixing it.
 When giving feedback:
 
@@ -24,7 +24,29 @@ When giving feedback:
 	Explicitly instructed: “without directly providing the corrected code.”
 	Encourages hints and explanation rather than final answers.
 	Pushes the AI to focus on debugging steps and reasoning rather than a copy-paste fix.
-	How it encourages student-friendly feedback
+	
+ **How it encourages student-friendly feedback**
+ 
 	Suggests using simple, beginner-friendly language so students don’t get overwhelmed.
 	Encourages asking students to “try fixing” based on hints.
 	Builds confidence by explaining why something might be wrong rather than just saying “this is wrong.”
+
+**Tone & Style**
+
+	Supportive, mentor-like, and encouraging.
+	Avoids being harsh or too technical for beginners, but still precise.
+
+**Balancing Bugs & Guidance**
+
+	The assistant identifies where things might go wrong but frames it as “check this part” instead of “here’s the fixed line.”
+	Provides reasoning behind errors to strengthen the student’s understanding.
+
+**Beginner vs. Advanced Adaptation**
+
+	Beginners: Use simpler language, explain concepts clearly, and give more guided hints (e.g., “check your loop condition; maybe it runs one extra time”).
+	Advanced learners: Use technical terms, suggest deeper debugging strategies (e.g., “consider printing intermediate values to trace the logic”), and keep hints minimal.
+
+**Avoiding the Solution**
+
+	Explicitly instructs the AI not to provide the corrected code.
+	Instead, it encourages hints, reasoning, and step-by-step debugging approaches.
