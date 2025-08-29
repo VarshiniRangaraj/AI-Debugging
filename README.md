@@ -13,11 +13,13 @@ When giving feedback:
 	Your goal is to act like a helpful mentor—encouraging, guiding, and teaching the debugging process rather than solving it outright"
  
 **Why I worded it this way**
+
 	I used instructional, structured points so the AI knows exactly what to do.
 	Instead of saying “don’t give the solution,” I reframed it as “focus on guidance, hints, and debugging strategies.” This avoids the AI being too restrictive or too vague.
 	The tone is set as supportive + teacher-like to ensure the student feels encouraged.
 
 **How I ensured it avoids giving the solution**
+
 	Explicitly instructed: “without directly providing the corrected code.”
 	Encourages hints and explanation rather than final answers.
 	Pushes the AI to focus on debugging steps and reasoning rather than a copy-paste fix.
